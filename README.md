@@ -12,7 +12,7 @@
 
 ### Description
 
-This script automates activity gathering by operating in cycles. You simply enter the target level you want to reach, and the script calculates the exact number of cycles required. It then executes the necessary requests in pairs (one start request followed by one complete request) until the target level is achieved.
+This script automates leveling up by operating in cycles. You simply enter the target level you want to reach, and the script calculates the exact number of cycles required. It then executes the necessary requests in pairs (one start request followed by one complete request) until the target level is achieved.
 
 ---
 
