@@ -31,3 +31,5 @@ This script automates leveling up by operating in cycles. You simply enter the t
 **2. Script** Click on the `.user.js` file in this repository and select **Raw**.  
 
 **3. Confirm** Confirm the installation in your browser extension.  
+
+<img width="335" height="326" alt="image" src="https://github.com/user-attachments/assets/ab784a89-b003-4c41-860f-06cc746def7b" />
