@@ -3,10 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.1
 // @description  Auto level up
-// @match        https://canary.discord.com/*
+// @match        https://discord.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
-// @connect      canary.discord.com
+// @connect      discord.com
 // ==/UserScript==
 
 (function () {
@@ -59,7 +59,7 @@
   const tokenInput = makeInput('Paste token here', ''); tokenInput.type = 'text';
   const levelInput = makeInput('Ex: 5', '1'); levelInput.type = 'number';
 
-  // Réglages du rythme
+  // Cycle settings
   const speedLabel = makeLabel('Cycle Delay (ms)');
   const speedRow = document.createElement('div');
   speedRow.style.cssText = 'display: flex; gap: 8px; margin-bottom: 10px;';
