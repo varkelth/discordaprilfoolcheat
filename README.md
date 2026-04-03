@@ -32,6 +32,8 @@ This script automates leveling up by operating in cycles. You simply enter the t
 
 **3. Confirm** Confirm the installation in your browser extension.  
 
+---
+
 ### Result
 
 <img width="335" height="326" alt="image" src="https://github.com/user-attachments/assets/ab784a89-b003-4c41-860f-06cc746def7b" />
