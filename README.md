@@ -2,9 +2,9 @@
 
 # Auto level up
 
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/Tampermonkey-8A2BE2?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Stable-8A2BE2?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-e19bb7?style=for-the-badge&logo=javascript&logoColor=white)
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-e19bb7?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://www.tampermonkey.net/)
+![Status](https://img.shields.io/badge/Status-Stable-e19bb7?style=for-the-badge)
 
 </div>
 
